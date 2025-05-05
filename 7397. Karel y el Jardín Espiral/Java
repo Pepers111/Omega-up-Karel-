@@ -1,0 +1,23 @@
+class program {
+    void turn(n){
+         iterate(n)
+             turnleft();
+    }
+
+    program () {
+        while(notNextToABeeper()){
+             if(frontIsClear()){
+                move();
+             }else{
+                if(leftIsClear()){
+                    turn(1);
+                }else{
+                   if(rightIsClear()){
+                      turn(3);
+                   }
+                }
+             }
+        }
+        turnoff();
+    }
+}
