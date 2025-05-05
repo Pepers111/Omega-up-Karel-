@@ -1,0 +1,19 @@
+iniciar-programa 
+define-nueva-instruccion mide como inicio 
+si frente-libre entonces inicio 
+avanza; 
+mide; 
+fin; 
+si no-orientado-al-oeste entonces inicio
+repetir 2 veces gira-izquierda;
+fin;
+mientras frente-libre hacer inicio
+avanza;
+fin;
+deja-zumbador
+fin;
+inicia-ejecucion 
+mide; 
+apagate; 
+termina-ejecucion 
+finalizar-programa
