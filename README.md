@@ -1,1 +1,1 @@
-Aqui encontraras los ejercicios en Karel de Omega Up
+Aqui encontraras algunos ejercicios en Karel de Omega Up
