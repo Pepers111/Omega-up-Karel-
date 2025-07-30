@@ -1,0 +1,19 @@
+iniciar-programa
+    inicia-ejecucion
+        mientras frente-libre hacer
+        avanza;
+        gira-izquierda;
+        gira-izquierda;
+        gira-izquierda;
+        coge-zumbador;
+        avanza;
+        coge-zumbador;
+        avanza;
+        coge-zumbador;
+        avanza;
+        coge-zumbador;
+        avanza;
+        coge-zumbador;
+        apagate;
+    termina-ejecucion
+finalizar-programa
